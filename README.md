@@ -2,7 +2,7 @@
 ## Steps:
 #### 1) Clone this repo:
 ```
-git clone https://github.com/shitijkarsolia/tag-identification-TinyYoloV4.git
+git clone https://github.com/SumitVashist/Tag-Number-.git
 ```
 
 #### 2) Create and activate your virtualenv:
